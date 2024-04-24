@@ -13,3 +13,8 @@ While the lab environment can be terminated using the following command:
 ```bash
 docker-compose down
 ```
+
+You can open a bash session with the control node using:
+```bash
+docker-compose exec ansible-control /bin/bash
+```
