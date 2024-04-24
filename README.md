@@ -1,4 +1,4 @@
-# Docker Ansible Hub
+# Docker Ansible Lab
 ## Overview
 This repo contains the required files to deploy an Ansible lab environment using Docker.
 ## Requirements
